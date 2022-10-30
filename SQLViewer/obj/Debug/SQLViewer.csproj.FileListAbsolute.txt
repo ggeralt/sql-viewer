@@ -1,0 +1,13 @@
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\bin\Debug\SQLViewer.exe.config
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\bin\Debug\SQLViewer.exe
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\bin\Debug\SQLViewer.pdb
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.csproj.AssemblyReference.cache
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.LoginForm.resources
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.Properties.Resources.resources
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.csproj.GenerateResource.cache
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.csproj.CoreCompileInputs.cache
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.exe
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.pdb
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.MainForm.resources
+C:\Users\Raj Mutahar\Desktop\Algebra\5_semestar\PPPK\SQLViewer\SQLViewer\obj\Debug\SQLViewer.SelectForm.resources
